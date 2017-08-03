@@ -1,0 +1,3 @@
+#!/bin/bash
+
+linkchecker --config=/src/linkcheckerrc "$@"

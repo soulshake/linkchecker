@@ -1,0 +1,4 @@
+[checking]
+anchors=1
+sslverify=0
+checkextern=1
